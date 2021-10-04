@@ -1,0 +1,29 @@
+.Header{
+    display: flex;
+    margin-left: 20px;
+    background-color: white;
+}
+.navigation-bar{
+    margin-left: 220px;
+    background-color: #EFEFEF;
+    border-radius: 10px;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+}
+nav a:hover{
+    background-color: #FF284F;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.logo h1 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}

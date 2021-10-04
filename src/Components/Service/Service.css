@@ -1,0 +1,42 @@
+.Hero-secton{
+    display: flex;
+    margin: 30px;
+    padding: 30px;
+    background-color: #F7F8FA;
+    border: 1px solid #F7F8FA;
+    border-radius: 30px;
+
+}
+.hero-img {
+    margin-left: 150px;
+}
+.img{
+    width: 350px;
+}
+.hero-content{
+    margin-top: 100px;
+    color: #3F3F3F;
+}
+.hero-h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+.hero-p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.course-h1{
+    color: #3F3F3F;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 600;
+}
+.course-section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 200px;
+    grid-gap: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}

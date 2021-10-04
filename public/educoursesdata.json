@@ -1,0 +1,48 @@
+[{
+	"key":"01",
+	"name":"Web Development",
+	"img":"https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/best-full-stack-web-developer-courses-certification-online-ppjh0d5a.jpg",
+	"price":"9000"
+	},
+	{
+	"key":"02",
+	"name":"Graphics Design",
+	"img":"https://coderstrustbd.com/wp-content/uploads/2021/06/GD.jpg",
+	"price":"4000"},
+	{
+		"key":"03",
+		"name":"Web Design",
+		"img":"https://img2.exportersindia.com/product_images/bc-full/2020/8/7795496/web-designing-course-1598609570-5567826.jpeg",
+		"price":"3000"
+	},
+	{
+		"key":"04",
+		"name":"Digital Marketing",
+		"img":"https://res.cloudinary.com/jerrick/image/upload/v1590733327/5ed0aa0fc359ef001ca99280.jpg",
+		"price":"7000"
+	},
+	{
+		"key":"05",
+		"name":"UI/UX Design",
+		"img":"https://qph.fs.quoracdn.net/main-qimg-f6dee1b5714fceb98873e76c0a437387",
+		"price":"10000"
+	},
+	{
+		"key":"06",
+		"name":"React Course",
+		"img":"https://www.freecodecamp.org/news/content/images/2021/07/reactcourse.png",
+		"price":"4000"
+	},
+	{
+		"key":"07",
+		"name":"Advance Javascript ",
+		"img":"https://funkyprogrammer.uk/wp-content/uploads/2021/05/JavaScript-Course-Title-Pic2.jpg",
+		"price":"8000"
+	},
+	{
+		"key":"08",
+		"name":"WordPress Course",
+		"img":"https://www.softnetbd.com/wp-content/uploads/2019/03/WordPress-Theme-Development.png",
+		"price":"1000"
+	}
+	]
